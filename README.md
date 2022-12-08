@@ -1,1 +1,0 @@
-# dgmdekut-coverage-map
